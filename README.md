@@ -7,6 +7,19 @@ Grafyk is a lightweight Go library for creating ASCII art graphs, designed to be
 - Fast and Lightweight: Grafyk is designed to be efficient and lightweight, without unnecessary overhead.
 - Straightforward: It offers specific functionalities for creating ASCII art progress bars and charts, maintaining a clear scope.
 
+## How to Install
+You can install Grafyk using the `go get` command:
+```bash
+go get github.com/simplyYan/grafyk
+```
+Make sure to import the library in your Go code after installation:
+```go
+import "github.com/simplyYan/grafyk"
+```
+Now you're ready to start using Grafyk in your projects!
+
+Remember to check the documentation and code examples for more details on using the library's features.
+
 ## License
 
 Grafyk is distributed under the BSD-3-Clause License. Feel free to use, modify, and distribute it according to the terms of this license.
