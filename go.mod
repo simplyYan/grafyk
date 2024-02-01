@@ -1,4 +1,4 @@
-module github.com/simplyYan/GalaktaGlare
+module github.com/simplyYan/grafyk
 
 go 1.19
 
