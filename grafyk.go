@@ -3,8 +3,6 @@ package main
 import (
 	"fmt"
 	"io/ioutil"
-	"math"
-	"os"
 	"strings"
 
 	"github.com/BurntSushi/toml"
