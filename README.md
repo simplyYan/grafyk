@@ -20,6 +20,12 @@ Now you're ready to start using Grafyk in your projects!
 
 Remember to check the documentation and code examples for more details on using the library's features.
 
+## Documentation
+Access the documentation on the [Wiki](https://github.com/simplyYan/grafyk/wiki/Docs) of this repository. It is comprehensive and easy to understand.
+```bash
+https://github.com/simplyYan/grafyk/wiki/Docs
+```
+
 ## License
 
 Grafyk is distributed under the BSD-3-Clause License. Feel free to use, modify, and distribute it according to the terms of this license.
