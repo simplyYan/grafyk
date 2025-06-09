@@ -2,7 +2,7 @@ package grafyk
 
 import (
 	"fmt"
-	"io/ioutil"
+	"os"
 	"strings"
 
 	"github.com/BurntSushi/toml"
@@ -90,7 +90,7 @@ func NewGraphic(data map[string]float64) *Graphic {
 
 func NewGraphicFromTOML(filename string) (*Graphic, error) {
 	data := make(map[string]float64)
-	content, err := ioutil.ReadFile(filename)
+	content, err := os.ReadFile(filename)
 	if err != nil {
 		return nil, err
 	}
