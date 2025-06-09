@@ -41,7 +41,7 @@ If you want to contribute to Grafyk, we'd be happy to receive your contributions
 ### How to Open a Pull Request
 
 1. Fork the repository.
-2. Clone the fork to your local machine: git clone https://github.com/your-username/grafyk.git
+2. Clone the fork to your local machine: git clone https://github.com/simplyYan/grafyk.git
 3. Create a branch for your changes: git checkout -b my-feature
 4. Make your changes and add, modify, or fix features.
 5. Commit your changes: git commit -m "Adding new functionality"
